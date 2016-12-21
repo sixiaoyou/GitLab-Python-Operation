@@ -11,6 +11,7 @@ This module can write data to `.csv` file on `the Name of Project in GitLab,user
 
 ##More Infomation
 You can get more information by my CSDN blog.The following articles record the whole process and difficulties of this project.
+
 [GitLab批量修改项目成员权限以及生成报表逻辑实现](http://blog.csdn.net/blackenn/article/details/53516255)
 
 中文说明
@@ -26,4 +27,5 @@ You can get more information by my CSDN blog.The following articles record the w
 
 ##更多的信息
 你能够获得更多的信息通过我的CSDN博客。下面的文章记录了这个项目的整个过程以及难点。
+
 [GitLab批量修改项目成员权限以及生成报表逻辑实现](http://blog.csdn.net/blackenn/article/details/53516255)
